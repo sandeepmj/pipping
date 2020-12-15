@@ -8,6 +8,6 @@ setup(
     author='Sandeep Junnarkar',
     author_email='sandeep@journalism.cuny.edu',
     license='unlicense',
-    packages=["hello"],
+    packages=["pipping"],
     zip_safe=False
 )
